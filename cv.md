@@ -22,3 +22,12 @@ My name is **Andrew**. I am **24** years old. I come from **Russia**, I live in 
 
 - [learn.javascript](https://learn.javascript.ru/)<br>
 - [HTML Academy](https://htmlacademy.ru/study)
+
+## **Work experience**
+
+No work experience yet
+
+## **Languages**
+
+**English** - A2 (pre-intermediate)<br>
+**Russian** - Native speaker
