@@ -150,6 +150,15 @@ h1 {
   color: #060e1b;
 }
 
+.education__link {
+  text-decoration: none;
+  color: #060e1b;
+}
+
+.education__link:hover {
+  color: rgb(102, 153, 204);
+}
+
 .section {
   margin-top: 60px;
 }
